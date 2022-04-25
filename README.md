@@ -4,7 +4,7 @@
   <img align="left" alt="Puneet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 ![](https://visitor-badge.glitch.me/badge?page_id=puneet-panwar.puneet-panwar)
 
 <!--profile-3d-contrib/profile-night-view.svg
