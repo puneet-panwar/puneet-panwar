@@ -6,6 +6,12 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+
+
+
+
+## Quote
+> The first principle is that you must not fool yourself — and you are the easiest person to fool - Richard Feynman
 ![](https://visitor-badge.glitch.me/badge?page_id=puneet-panwar.puneet-panwar)
 
 <!--profile-3d-contrib/profile-night-view.svg
