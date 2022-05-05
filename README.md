@@ -17,7 +17,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Importance of feedback](https://puneetpanwar.com/importance-of-feedback/)
-- [Introduction to Linux Command Line](https://puneetpanwar.com/importance-of-feedback/)
+- [Introduction to Linux Command Line](https://puneetpanwar.com/introduction-to-linux-command-line/)
 
 
 <!-- BLOG-POST-LIST:END -->
