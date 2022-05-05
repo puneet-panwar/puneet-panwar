@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Designing optimal control algorithms**
+- 🔭 I’m currently working on **Design of optimal control algorithms**
 - 🌱 I’m currently learning **Time-series modeling using RNN**
 - 💬 Ask me about **Control Systems, Machine Learning**
 - 📫 How to reach me: [write to me](https://puneetpanwar.com/contact-puneet-panwar/)
