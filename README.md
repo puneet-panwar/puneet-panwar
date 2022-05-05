@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Design of optimal control algorithms**
 - 🌱 I’m currently learning **Time-series modeling using RNN**
-- 💬 Ask me about **Control Systems, Machine Learning**
+- 💬 Ask me about **Control Systems, Reinforcement Learning**
 - 📫 How to reach me: [write to me](https://puneetpanwar.com/contact-puneet-panwar/)
 
 ------
