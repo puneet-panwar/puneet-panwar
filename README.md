@@ -1,9 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! I'm Puneet. </h2>
 
-<a href="https://www.linkedin.com/in/puneetpanwar/">
-  <img align="left" alt="Puneet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! I'm Puneet.</h2>
+<p align="center">
+  <a href="https://puneetpanwar.com/blogs/">Blog</a> •
+  <a href="https://www.linkedin.com/in/puneetpanwar/">LinkedIn</a>
+</p>
+
 
 - 🔭 I’m currently working on **Designing optimal control algorithms**
 - 🌱 I’m currently learning **Time-series modeling using RNN**
@@ -23,11 +24,6 @@
 
 -------
 
-## Quote
-> The first principle is that you must not fool yourself — and you are the easiest person to fool - Richard Feynman
-
-
-
 ![](./profile-3d-contrib/profile-night-green.svg)
 <!--
 profile-3d-contrib/profile-night-view.svg
@@ -37,7 +33,19 @@ profile-gitblock.svg
 # link for: https://github.com/yoshi389111/github-profile-3d-contrib
 -->
 
+## Quote
+> The first principle is that you must not fool yourself — and you are the easiest person to fool - Richard Feynman
+
+
 ![](https://visitor-badge.glitch.me/badge?page_id=puneet-panwar.puneet-panwar)
+
+
+
+<!-- to put linkedin logo:
+<a href="https://www.linkedin.com/in/puneetpanwar/">
+  <img align="left" alt="Puneet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+-->
 
 <!--
 **puneet-panwar/puneet-panwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
