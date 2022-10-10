@@ -25,14 +25,14 @@
 
 -------
 
-[](./profile-3d-contrib/profile-night-green.svg)
-!<!--
+!(./profile-3d-contrib/profile-night-green.svg)
+<!--
 profile-3d-contrib/profile-night-view.svg
 profile-night-green.svg
 profile-night-rainbow.svg
 profile-gitblock.svg
 # link for: https://github.com/yoshi389111/github-profile-3d-contrib
-!-->
+-->
 
 ## Quote
 > The first principle is that you must not fool yourself — and you are the easiest person to fool - Richard Feynman
